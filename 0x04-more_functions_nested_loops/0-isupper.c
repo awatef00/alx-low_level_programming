@@ -6,9 +6,9 @@
  */
 int _isupper(int x)
 {
-if(x >= 'A' && x <= 'Z')
+if (x >= 'A' && x <= 'Z')
 {
-return(1);
+return (1);
 }
-return(0);
+return (0);
 }
